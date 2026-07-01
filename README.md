@@ -1,0 +1,2 @@
+# -ESP32-Based-Smart-Solar-Energy-Management-Monitoring-System
+This project is an IoT-based Smart Solar Energy Management and Monitoring System developed using the ESP32 microcontroller. The system provides real-time monitoring of solar and battery parameters while enabling intelligent energy management through a responsive web dashboard accessible from any smartphone connected to the ESP32 hotspot.
